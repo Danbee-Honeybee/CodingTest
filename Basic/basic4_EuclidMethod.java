@@ -1,7 +1,6 @@
 package Basic;
 
-/* Factorial 은 Recursive 의 대표적인 예시이다.
- * Recursive 의 형태로 정수의 값을 곱해준다. */
+/* Recursive 최대공약수 Euclid Method*/
 
 public class basic4_EuclidMethod {
 
