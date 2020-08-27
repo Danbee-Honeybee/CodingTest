@@ -1,6 +1,6 @@
 package Basic;
 
-/* Recursive 최대공약수 Euclid Method*/
+/* Recursive Euclid Method */
 
 public class basic4_EuclidMethod {
 
